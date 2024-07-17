@@ -104,6 +104,8 @@ Most popular models:
 3. Gemini API.
 
 ## LangChain.
+- [LangChain YouTube Channel](https://www.youtube.com/@LangChain)
+- 
 
 ### Courses
 - [Chat with your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
@@ -114,6 +116,7 @@ Most popular models:
 ## LlamaIndex.
 
 ### Resources
+- [LlamaIndex YouTube Channel](https://www.youtube.com/@LlamaIndex)
 - [LLamaIndex Blog on Medium](https://medium.com/@llama_index)
 
 
@@ -140,6 +143,9 @@ Most popular models:
 - []()
 
 ### RAG Evaluation
+- [HuggingFace Cookbook](https://huggingface.co/learn/cookbook/en/rag_evaluation)
+- [Evaluating RAG with RAGAs by Leonie](https://towardsdatascience.com/evaluating-rag-applications-with-ragas-81d67b0ee31a)
+- [RAG Evaluation by Cobus](https://cobusgreyling.medium.com/rag-evaluation-9813a931b3d4)
 
 Methods:
 - reranking
@@ -174,6 +180,14 @@ Methods:
 - [Knowledge Graphs for RAG by Neo4J](https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/)
 
 ## YouTube Channels
+- [AI Explained](https://www.youtube.com/@aiexplained-official) - AI News
+- [Yannic Kilcher](https://www.youtube.com/@YannicKilcher) - LLMs, AI Math
+- [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy) - very technical, great teacher
+- [Abhishek Thakur](https://www.youtube.com/@abhishekkrthakur/featured) - technical, fast-paced AI implementation
+- [StatQuest with Josh Starmer](https://www.youtube.com/@statquest) - math, statistics, algorithms, AI
+- [James Briggs](https://www.youtube.com/@jamesbriggs) - RAG, LLMs, AI Agents, Vector Databases, LangChain
+- [Matt Wolfe](https://www.youtube.com/@mreflow) - AI News
+- [AI Jason](https://www.youtube.com/@AIJasonZ) - code tutorials for AI Agents, LangChain, RAG
 
 ## Medium Writers
 - [Kris Ograbek 😊](https://kris-ograbek.medium.com/) - AI Engineering, LLMs, LangChain, AI Agents, Custom AI Tools
@@ -187,6 +201,7 @@ Methods:
 - [Kamal Dhungana](https://medium.com/@kbdhunga) - LangChain, AI Agents, Knowledge Graphs, Neo4J
 - [Akriti Upadhyay](https://medium.com/@akriti.upadhyay) - Open-source LLMs, RAG, LLamaIndex
 - [Florian June](https://medium.com/@florian_algo) - LLMs, RAG, AI Agents
+- [Alejandro AO](https://www.youtube.com/@alejandro_ao) - Coding tutorials, LangChain, RAG, LLMs, OpenAI API
 
 ---
 ### Other Curated Lists
