@@ -22,8 +22,29 @@
 
 ## Prompt Engineering
 
+### Websites
+- [LearnPrompting.org](https://learnprompting.org/docs/basics/introduction)
+- [Prompt Engineering Guide](https://www.promptingguide.ai/) + [GitHub Version](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- [ChatGPT Prompt Book](https://docs.google.com/presentation/d/17b_ocq-GL5lhV_bYSShzUgxL02mtWDoiw9xEroJ5m3Q/edit#slide=id.g289f49ac4d4_12_0) - a presentation with great & practical prompts
+
+### Articles
+- [A Beginner's Guide to ChatGPT Prompt Engineering](https://www.datacamp.com/tutorial/a-beginners-guide-to-chatgpt-prompt-engineering)
+
+### Communities
+- [r/PromptEngineering](https://www.reddit.com/r/PromptEngineering/)
+- [r/AIPromptProgramming](https://www.reddit.com/r/aipromptprogramming/)
+- [Awesome GPT Prompt Engineering (GitHub)](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)
+
+### Prompt Generators
+- [HuggingFace ChatGPT Prompt Generator (powered by BART)](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator)
+- 
 
 ## Large Language Models
+
+### Playgrounds
+- [OpenAI API Playground]()
+- [Vercel AI Playground](https://sdk.vercel.ai/playground) - enables you to test & compare various LLMs next to each other
+- 
 
 ## Open Source
 1. HuggingFace
@@ -32,6 +53,16 @@
 Most popular models:
 - mistrral
 - llama
+
+## OpenAI API
+
+### Courses
+
+### Articles
+- [A Beginner's Guide to Using the ChatGPT API](https://www.datacamp.com/tutorial/a-beginners-guide-to-chatgpt-api)
+
+### Tutorials
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 - 
 
 ## APIs:
