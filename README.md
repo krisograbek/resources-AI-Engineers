@@ -43,7 +43,8 @@
 
 ### Prompt Generators
 - [HuggingFace ChatGPT Prompt Generator (powered by BART)](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator)
-- 
+- [Prompt Perfect](https://promptperfect.jina.ai/)
+- [Promptify](https://www.promptify.pro/)
 
 ### YouTube Videos & Playlists
 - [Master ChatGPT and LLM Responses (FreeCodeCamp)](https://youtu.be/_ZvnD73m40o?si=HtEO6Df3PfHtb3jL)
@@ -111,6 +112,10 @@ Most popular models:
 
 ## LlamaIndex.
 
+### Resources
+- [LLamaIndex Blog on Medium](https://medium.com/@llama_index)
+
+
 ## HuggingFace.
 
 ### Courses
@@ -121,7 +126,7 @@ Most popular models:
 ## RAG
 ### Courses:
 - [Building Multimodal Search and RAG by Weaviate](https://www.deeplearning.ai/short-courses/building-multimodal-search-and-rag/)
-- 
+- [Building and Evaluating Advanced RAG Applications (Truera & LlamaIndex)](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)
 
 
 Methods:
@@ -156,4 +161,14 @@ Methods:
 ### Courses
 - [Knowledge Graphs for RAG by Neo4J](https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/)
 
-### YouTube Channels
+## YouTube Channels
+
+## Medium Writers
+- [Kris Ograbek 😊](https://kris-ograbek.medium.com/) - AI Engineering, LLMs, LangChain, AI Agents, Custom AI Tools
+- [Leonie Monigatti](https://medium.com/@iamleonie) - Weaviate Developer Advocate, Vector Databases, RAG, LLamaIndex, LangChain
+- [Cobus Greyling](https://cobusgreyling.medium.com/) - GenAI, LLMs, RAG, AI Agents
+- [Zhaozhi Ming](https://medium.com/@zhaozhiming) - Advanced RAG, Knowledge Graphs
+- [Tim Cvetko](https://timc102.medium.com/) - AI Engineering, AI Agents, Projects
+- [Ryan Nguyen](https://medium.com/@ryanntk) - RAG, LLMs
+- [Dr. Varshita Sher](https://varshitasher.medium.com/) - LLMs, AI Agents, LangChain, Python
+- [Tomaz Bratanic](https://bratanic-tomaz.medium.com/) - Knowledge Graphs, RAG, Neo4J
