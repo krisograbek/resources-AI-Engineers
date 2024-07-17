@@ -24,8 +24,14 @@
 
 ### Websites
 - [LearnPrompting.org](https://learnprompting.org/docs/basics/introduction)
-- [Prompt Engineering Guide](https://www.promptingguide.ai/) + [GitHub Version](https://github.com/dair-ai/Prompt-Engineering-Guide)
 - [ChatGPT Prompt Book](https://docs.google.com/presentation/d/17b_ocq-GL5lhV_bYSShzUgxL02mtWDoiw9xEroJ5m3Q/edit#slide=id.g289f49ac4d4_12_0) - a presentation with great & practical prompts
+- [Prompt Engineering Guide](https://www.promptingguide.ai/) + [GitHub Version](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- [Prompt Engineering Guide by OpenAI](https://platform.openai.com/docs/guides/prompt-engineering/prompt-engineering)
+- [Prompt Engineering on TutorialsPoint](https://www.tutorialspoint.com/prompt_engineering/index.htm)
+
+### Courses
+- [Prompt Engineering for ChatGPT (Vanderbilt University)](https://www.coursera.org/learn/prompt-engineering)
+- 
 
 ### Articles
 - [A Beginner's Guide to ChatGPT Prompt Engineering](https://www.datacamp.com/tutorial/a-beginners-guide-to-chatgpt-prompt-engineering)
@@ -38,6 +44,11 @@
 ### Prompt Generators
 - [HuggingFace ChatGPT Prompt Generator (powered by BART)](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator)
 - 
+
+### YouTube Videos & Playlists
+- [Master ChatGPT and LLM Responses (FreeCodeCamp)](https://youtu.be/_ZvnD73m40o?si=HtEO6Df3PfHtb3jL)
+- [ChatGPT Tutorials](https://www.youtube.com/playlist?list=PLB72EJWiiyOp1inVyUSK1YnZmE0HX9Bxa)
+- [Prompt Engineering for Beginners Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDv5eyBLEd9l3ZZzVoroxIZ)
 
 ## Large Language Models
 
@@ -63,7 +74,7 @@ Most popular models:
 
 ### Tutorials
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
-- 
+- [Prompt Engineering: A Practical Example (Real Python)](https://realpython.com/practical-prompt-engineering/)
 
 ## APIs:
 1. OpenAI API.
