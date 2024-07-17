@@ -1,5 +1,14 @@
 # Ultimate resources for aspiring AI Engineers
 
+## Python
+
+### YouTube Channels:
+- Sentdex
+- TechWithTim
+- FreeCodeCamp
+- Programming with Mosh
+- Krish Naik
+
 ## Prompt Engineering
 
 
