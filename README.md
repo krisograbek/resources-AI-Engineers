@@ -73,16 +73,16 @@
 - [Intro to Generative AI by Google Cloud](https://www.cloudskillsboost.google/course_templates/536/video/466321) - A 22-minute intro to GenAI + Reading + Quiz
 
 ## Open Source
-1. HuggingFace
-2. Ollama
+1. [HuggingFace](https://huggingface.co/)
+2. [Ollama](https://ollama.com/)
 
 ### Courses
 - [Prompt Engineering with Llama 2 & 3](https://www.deeplearning.ai/short-courses/prompt-engineering-with-llama-2/)
 - [Getting Started with Mistral AI](https://www.deeplearning.ai/short-courses/getting-started-with-mistral/)
 
 Most popular models:
-- mistrral
-- llama
+1. [Mistral](https://mistral.ai/)
+2. [Llama 2 & 3](https://llama.meta.com/)
 
 ## OpenAI API
 
