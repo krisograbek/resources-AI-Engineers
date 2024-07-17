@@ -172,3 +172,6 @@ Methods:
 - [Ryan Nguyen](https://medium.com/@ryanntk) - RAG, LLMs
 - [Dr. Varshita Sher](https://varshitasher.medium.com/) - LLMs, AI Agents, LangChain, Python
 - [Tomaz Bratanic](https://bratanic-tomaz.medium.com/) - Knowledge Graphs, RAG, Neo4J
+- [Kamal Dhungana](https://medium.com/@kbdhunga) - LangChain, AI Agents, Knowledge Graphs, Neo4J
+- [Akriti Upadhyay](https://medium.com/@akriti.upadhyay) - Open-source LLMs, RAG, LLamaIndex
+- [Florian June](https://medium.com/@florian_algo) - LLMs, RAG, AI Agents, 
