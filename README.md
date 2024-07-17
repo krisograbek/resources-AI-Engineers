@@ -108,9 +108,7 @@ Most popular models:
 - 
 
 ### Courses
-- [Chat with your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
 - [Functions, Tools and Agents](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)
-- []()
 - []()
 
 ## LlamaIndex.
@@ -129,8 +127,8 @@ Most popular models:
 
 ## RAG
 ### Courses:
+- [Chat with your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
 - [Building Multimodal Search and RAG by Weaviate](https://www.deeplearning.ai/short-courses/building-multimodal-search-and-rag/)
-- [Building and Evaluating Advanced RAG Applications (Truera & LlamaIndex)](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)
 
 ### Papers
 - [Seven Failure Points for RAG Systems](https://arxiv.org/pdf/2401.05856)
@@ -143,9 +141,12 @@ Most popular models:
 - []()
 
 ### RAG Evaluation
-- [HuggingFace Cookbook](https://huggingface.co/learn/cookbook/en/rag_evaluation)
+- [Building and Evaluating Advanced RAG Applications (Truera & LlamaIndex)](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)
 - [Evaluating RAG with RAGAs by Leonie](https://towardsdatascience.com/evaluating-rag-applications-with-ragas-81d67b0ee31a)
 - [RAG Evaluation by Cobus](https://cobusgreyling.medium.com/rag-evaluation-9813a931b3d4)
+- [RAG Evaluation: Don’t let customers tell you first](https://www.pinecone.io/learn/series/vector-databases-in-production-for-busy-engineers/rag-evaluation/)
+- [HuggingFace Cookbook](https://huggingface.co/learn/cookbook/en/rag_evaluation)
+- 
 
 Methods:
 - reranking
@@ -180,14 +181,15 @@ Methods:
 - [Knowledge Graphs for RAG by Neo4J](https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/)
 
 ## YouTube Channels
-- [AI Explained](https://www.youtube.com/@aiexplained-official) - AI News
+- [Kris Ograbek 😊](https://www.youtube.com/channel/UCyi_Df2NF35qjIV0LdtUY9w) - AI Engineering, LLMs, LangChain, AI Agents, Custom AI Tools
 - [Yannic Kilcher](https://www.youtube.com/@YannicKilcher) - LLMs, AI Math
 - [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy) - very technical, great teacher
 - [Abhishek Thakur](https://www.youtube.com/@abhishekkrthakur/featured) - technical, fast-paced AI implementation
 - [StatQuest with Josh Starmer](https://www.youtube.com/@statquest) - math, statistics, algorithms, AI
 - [James Briggs](https://www.youtube.com/@jamesbriggs) - RAG, LLMs, AI Agents, Vector Databases, LangChain
-- [Matt Wolfe](https://www.youtube.com/@mreflow) - AI News
 - [AI Jason](https://www.youtube.com/@AIJasonZ) - code tutorials for AI Agents, LangChain, RAG
+- [Matt Wolfe](https://www.youtube.com/@mreflow) - AI News
+- [AI Explained](https://www.youtube.com/@aiexplained-official) - AI News
 
 ## Medium Writers
 - [Kris Ograbek 😊](https://kris-ograbek.medium.com/) - AI Engineering, LLMs, LangChain, AI Agents, Custom AI Tools
