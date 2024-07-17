@@ -52,14 +52,29 @@
 
 ## Large Language Models
 
+### Courses
+- [Introduction to Large Language Models by Google Cloud](https://www.cloudskillsboost.google/course_templates/539/video/466324) - A 16-minute intro to LLMs + Reading + Quiz
+
 ### Playgrounds
 - [OpenAI API Playground]()
 - [Vercel AI Playground](https://sdk.vercel.ai/playground) - enables you to test & compare various LLMs next to each other
 - 
 
+
+
+## Generative AI
+
+### Courses
+- [Generative AI for Everyone by Andrew Ng](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)
+- [Intro to Generative AI by Google Cloud](https://www.cloudskillsboost.google/course_templates/536/video/466321) - A 22-minute intro to GenAI + Reading + Quiz
+
 ## Open Source
 1. HuggingFace
 2. Ollama
+
+### Courses
+- [Prompt Engineering with Llama 2 & 3](https://www.deeplearning.ai/short-courses/prompt-engineering-with-llama-2/)
+- [Getting Started with Mistral AI](https://www.deeplearning.ai/short-courses/getting-started-with-mistral/)
 
 Most popular models:
 - mistrral
@@ -68,6 +83,9 @@ Most popular models:
 ## OpenAI API
 
 ### Courses
+- [Prompt Engineering for Developers on DeepLearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - a gentle intro to OpenAI API + Prompting
+- [Building systems with the ChatGPT API on DeepLearning.ai](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
+- 
 
 ### Articles
 - [A Beginner's Guide to Using the ChatGPT API](https://www.datacamp.com/tutorial/a-beginners-guide-to-chatgpt-api)
@@ -81,12 +99,26 @@ Most popular models:
 2. Anthropic API.
 3. Gemini API.
 
-## Frameworks
-1. LangChain.
-2. LlamaIndex.
+## LangChain.
+
+### Courses
+- [Chat with your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
+- [Functions, Tools and Agents](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)
+- []()
+- []()
+
+## LlamaIndex.
+
+## HuggingFace.
+
+### Courses
+- [Building GenAI Applications with Gradio](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)
+- [Open-source models with HuggingFace](https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/)
+- [Quantization Fundamentals with Hugging Face](https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/)
 
 ## RAG
-### Basic RAG
+### Courses:
+- [Building Multimodal Search and RAG](https://www.deeplearning.ai/short-courses/building-multimodal-search-and-rag/)
 
 
 ### Advanced RAG
@@ -101,7 +133,18 @@ Methods:
 2. Pinecone.
 3. Weaviate.
 
+### Courses
+- [From Embeddings to Applications by Weaviate](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
+
 ## AI Agents.
+
+### Courses:
+- [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
+- [AI Agentic Design Patterns with AutoGen](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
+- [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
+- [Building Agentic RAG with LlamaIndex](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/)
+- []()
+
 ### Frameworks:
 1. CrewAI.
 2. AutoGen.
