@@ -1,4 +1,5 @@
-# Ultimate resources for aspiring AI Engineers
+# Resources for AI Engineers
+
 
 ## Python
 
@@ -128,6 +129,17 @@ Most popular models:
 - [Building Multimodal Search and RAG by Weaviate](https://www.deeplearning.ai/short-courses/building-multimodal-search-and-rag/)
 - [Building and Evaluating Advanced RAG Applications (Truera & LlamaIndex)](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)
 
+### Papers
+- [Seven Failure Points for RAG Systems](https://arxiv.org/pdf/2401.05856)
+
+### Advanced RAG
+- [Improve RAG Performance](https://luv-bansal.medium.com/advance-rag-improve-rag-performance-208ffad5bb6a)
+- [Child-Parent Recursive & Sentence Window Retrieval by Sophia Yang](https://towardsdatascience.com/advanced-rag-01-small-to-big-retrieval-172181b396d4)
+- [12 RAG Pain Points + Solutions by Wenqi Glantz](https://towardsdatascience.com/12-rag-pain-points-and-proposed-solutions-43709939a28c)
+- [Advanced Retrieval-Augmented Generation: From Theory to LlamaIndex Implementation By Leonie](https://towardsdatascience.com/advanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930)
+- []()
+
+### RAG Evaluation
 
 Methods:
 - reranking
@@ -174,4 +186,9 @@ Methods:
 - [Tomaz Bratanic](https://bratanic-tomaz.medium.com/) - Knowledge Graphs, RAG, Neo4J
 - [Kamal Dhungana](https://medium.com/@kbdhunga) - LangChain, AI Agents, Knowledge Graphs, Neo4J
 - [Akriti Upadhyay](https://medium.com/@akriti.upadhyay) - Open-source LLMs, RAG, LLamaIndex
-- [Florian June](https://medium.com/@florian_algo) - LLMs, RAG, AI Agents, 
+- [Florian June](https://medium.com/@florian_algo) - LLMs, RAG, AI Agents
+
+---
+### Other Curated Lists
+- [Awesome GPT Resources](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering#playgrounds-and-alternative-uis)
+- 
