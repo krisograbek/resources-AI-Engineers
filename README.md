@@ -60,6 +60,8 @@
 - [Vercel AI Playground](https://sdk.vercel.ai/playground) - enables you to test & compare various LLMs next to each other
 - 
 
+### Transformer Architecture
+- [The Illustrated Transformer by Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
 
 
 ## Generative AI
@@ -118,42 +120,40 @@ Most popular models:
 
 ## RAG
 ### Courses:
-- [Building Multimodal Search and RAG](https://www.deeplearning.ai/short-courses/building-multimodal-search-and-rag/)
+- [Building Multimodal Search and RAG by Weaviate](https://www.deeplearning.ai/short-courses/building-multimodal-search-and-rag/)
+- 
 
-
-### Advanced RAG
-Sources:
 
 Methods:
 - reranking
 - Hybrid Search
 
 ## Vector Databases
-1. Qdrant.
-2. Pinecone.
-3. Weaviate.
+1. [Qdrant](https://qdrant.tech/)
+2. [Pinecone](https://www.pinecone.io/)
+3. [Weaviate](https://weaviate.io/)
 
 ### Courses
 - [From Embeddings to Applications by Weaviate](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
+- [Building Applications with Vector Databases by Pinecone](https://www.deeplearning.ai/short-courses/building-applications-vector-databases/)
 
 ## AI Agents.
+
+### Frameworks:
+1. [CrewAI](https://www.crewai.com/)
+2. [AutoGen](https://microsoft.github.io/autogen/)
+3. [Agents Swarm](https://github.com/VRSEN/agency-swarm)
 
 ### Courses:
 - [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
 - [AI Agentic Design Patterns with AutoGen](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)
 - [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
 - [Building Agentic RAG with LlamaIndex](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/)
-- []()
-
-### Frameworks:
-1. CrewAI.
-2. AutoGen.
-3. Agents Swarm?
-
-### YouTube Channels
-
-### Medium Writers
-
 
 
 ## Knowledge Graphs
+
+### Courses
+- [Knowledge Graphs for RAG by Neo4J](https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/)
+
+### YouTube Channels
