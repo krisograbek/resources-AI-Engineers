@@ -99,9 +99,9 @@ Most popular models:
 - [Prompt Engineering: A Practical Example (Real Python)](https://realpython.com/practical-prompt-engineering/)
 
 ## APIs:
-1. OpenAI API.
-2. Anthropic API.
-3. Gemini API.
+1. [OpenAI API](https://platform.openai.com/docs/api-reference/introduction)
+2. [Anthropic API](https://docs.anthropic.com/en/api/getting-started)
+3. [Gemini API](https://ai.google.dev/api?lang=python)
 
 ## LangChain.
 - [LangChain YouTube Channel](https://www.youtube.com/@LangChain)
