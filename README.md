@@ -148,9 +148,13 @@ Most popular models:
 - [HuggingFace Cookbook](https://huggingface.co/learn/cookbook/en/rag_evaluation)
 - 
 
-Methods:
-- reranking
-- Hybrid Search
+### Methods.
+**Hybrid Search**:
+- [LLamaIndex & Qdrant notebook](https://docs.llamaindex.ai/en/stable/examples/vector_stores/qdrant_hybrid/)
+- [On Hybrid Search from Qdrant Blog](https://qdrant.tech/articles/hybrid-search/)
+
+**Reranking**
+- 
 
 ## Vector Databases
 1. [Qdrant](https://qdrant.tech/)
