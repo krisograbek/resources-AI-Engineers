@@ -152,6 +152,8 @@ Most popular models:
 **Hybrid Search**:
 - [LLamaIndex & Qdrant notebook](https://docs.llamaindex.ai/en/stable/examples/vector_stores/qdrant_hybrid/)
 - [On Hybrid Search from Qdrant Blog](https://qdrant.tech/articles/hybrid-search/)
+- [LangChain & Weaviate Hybrid Search](https://python.langchain.com/v0.2/docs/integrations/retrievers/weaviate-hybrid/)
+- [Hybrid Search: Combining BM25 and Semantic Search for Better Results with Langchain](https://medium.com/etoai/hybrid-search-combining-bm25-and-semantic-search-for-better-results-with-lan-1358038fe7e6)
 
 **Reranking**
 - 
