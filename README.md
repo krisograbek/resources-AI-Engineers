@@ -1,6 +1,5 @@
 # Resources for AI Engineers
 
-
 ## Python
 
 ### Websites
@@ -184,6 +183,11 @@ Most popular models:
 - [Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
 - [Building Agentic RAG with LlamaIndex](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/)
 
+## AI Engineering.
+### Articles
+- [What We Learned from a Year of Building with LLMs (Part I)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
+- [What We Learned from a Year of Building with LLMs (Part II)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-ii/)
+- [What We Learned from a Year of Building with LLMs (Part III)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-iii-strategy/)
 
 ## Knowledge Graphs
 
