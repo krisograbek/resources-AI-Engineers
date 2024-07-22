@@ -54,6 +54,10 @@
 
 ## Large Language Models
 
+### Tutorials:
+- [Optimizing LLMs for accuracy by OpenAI](https://platform.openai.com/docs/guides/optimizing-llm-accuracy)
+- 
+
 ### Courses
 - [Introduction to Large Language Models by Google Cloud](https://www.cloudskillsboost.google/course_templates/539/video/466324) - A 16-minute intro to LLMs + Reading + Quiz
 
