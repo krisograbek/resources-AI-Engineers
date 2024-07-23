@@ -87,12 +87,16 @@ Most popular models:
 1. [Mistral](https://mistral.ai/)
 2. [Llama 2 & 3](https://llama.meta.com/)
 
+### Small Language Models.
+
+- [SmolLM](https://huggingface.co/blog/smollm)
+
+
 ## OpenAI API
 
 ### Courses
 - [Prompt Engineering for Developers on DeepLearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - a gentle intro to OpenAI API + Prompting
 - [Building systems with the ChatGPT API on DeepLearning.ai](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
-- 
 
 ### Articles
 - [A Beginner's Guide to Using the ChatGPT API](https://www.datacamp.com/tutorial/a-beginners-guide-to-chatgpt-api)
