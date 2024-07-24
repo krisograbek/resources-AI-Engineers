@@ -147,6 +147,9 @@ Most popular models:
 - [Advanced Retrieval-Augmented Generation: From Theory to LlamaIndex Implementation By Leonie](https://towardsdatascience.com/advanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930)
 - []()
 
+### Agentic RAG
+- [RAG Agents with LangGraph](https://medium.com/the-ai-forum/build-a-reliable-rag-agent-using-langgraph-2694d55995cd)
+
 ### RAG Evaluation
 - [Building and Evaluating Advanced RAG Applications (Truera & LlamaIndex)](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)
 - [Evaluating RAG with RAGAs by Leonie](https://towardsdatascience.com/evaluating-rag-applications-with-ragas-81d67b0ee31a)
