@@ -147,6 +147,9 @@ Most popular models:
 - [Advanced Retrieval-Augmented Generation: From Theory to LlamaIndex Implementation By Leonie](https://towardsdatascience.com/advanced-retrieval-augmented-generation-from-theory-to-llamaindex-implementation-4de1464a9930)
 - []()
 
+### Open-Source RAG
+- [Building RAG with Open-Source and Custom AI Models](https://www.bentoml.com/blog/building-rag-with-open-source-and-custom-ai-models)
+
 ### Agentic RAG
 - [RAG Agents with LangGraph](https://medium.com/the-ai-forum/build-a-reliable-rag-agent-using-langgraph-2694d55995cd)
 
@@ -156,7 +159,9 @@ Most popular models:
 - [RAG Evaluation by Cobus](https://cobusgreyling.medium.com/rag-evaluation-9813a931b3d4)
 - [RAG Evaluation: Don’t let customers tell you first](https://www.pinecone.io/learn/series/vector-databases-in-production-for-busy-engineers/rag-evaluation/)
 - [HuggingFace Cookbook](https://huggingface.co/learn/cookbook/en/rag_evaluation)
-- 
+
+### RAG Applications:
+- [7 Practical Applications of RAG models](https://hyperight.com/7-practical-applications-of-rag-models-and-their-impact-on-society/)
 
 ### Methods.
 **Hybrid Search**:
