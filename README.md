@@ -170,17 +170,20 @@ Most popular models:
 - [LangChain & Weaviate Hybrid Search](https://python.langchain.com/v0.2/docs/integrations/retrievers/weaviate-hybrid/)
 - [Hybrid Search: Combining BM25 and Semantic Search for Better Results with Langchain](https://medium.com/etoai/hybrid-search-combining-bm25-and-semantic-search-for-better-results-with-lan-1358038fe7e6)
 
-**Reranking**
-- 
+### Embeddings
+- [Understanding and Applying Text Embedding (Vertex AI)](https://www.deeplearning.ai/short-courses/google-cloud-vertex-ai/)
+- [Large Language Models with Semantic Search (Cohere)](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/)
 
 ## Vector Databases
 1. [Qdrant](https://qdrant.tech/)
 2. [Pinecone](https://www.pinecone.io/)
 3. [Weaviate](https://weaviate.io/)
+4. Chroma DB
 
 ### Courses
 - [From Embeddings to Applications by Weaviate](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
 - [Building Applications with Vector Databases by Pinecone](https://www.deeplearning.ai/short-courses/building-applications-vector-databases/)
+- [Advanced Retrieval for AI with Chroma](https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/)
 
 ## AI Agents.
 
