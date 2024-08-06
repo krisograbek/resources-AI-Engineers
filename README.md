@@ -184,6 +184,7 @@ Most popular models:
 - [From Embeddings to Applications by Weaviate](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
 - [Building Applications with Vector Databases by Pinecone](https://www.deeplearning.ai/short-courses/building-applications-vector-databases/)
 - [Advanced Retrieval for AI with Chroma](https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai/)
+- 
 
 ## AI Agents.
 
