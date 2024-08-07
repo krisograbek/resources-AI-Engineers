@@ -7,6 +7,9 @@
 - [RealPython](https://realpython.com/)
 - [W3Schools Python Tutorial](https://www.w3schools.com/python/)
 
+### Courses
+- [AI Python for Beginners by Andrew Ng](https://learn.deeplearning.ai/courses/ai-python-for-beginners/lesson/1/introduction)
+
 ### YouTube Channels:
 - [Sentdex](https://www.youtube.com/user/sentdex)
 - [TechWithTim](https://www.youtube.com/c/techwithtim)
