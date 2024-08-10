@@ -71,6 +71,14 @@
 ### Transformer Architecture
 - [The Illustrated Transformer by Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
 
+### Online Tokenizers
+- [HuggingFace](https://huggingface.co/spaces/Xenova/the-tokenizer-playground)
+- [Llama3](https://belladoreai.github.io/llama3-tokenizer-js/example-demo/build/)
+- [Tiktokenizer](https://tiktokenizer.vercel.app/)
+- [OpenAI](https://platform.openai.com/tokenizer)
+
+### Learn Tokenization
+- [Let's build the GPT tokenizer by A. Karpathy](https://www.youtube.com/watch?v=zduSFxRajkE)
 
 ## Generative AI
 
