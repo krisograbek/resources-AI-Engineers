@@ -217,6 +217,9 @@ Most popular models:
 - [What We Learned from a Year of Building with LLMs (Part II)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-ii/)
 - [What We Learned from a Year of Building with LLMs (Part III)](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-iii-strategy/)
 
+## Learning Platforms
+- [Microsoft AI Learning Hub](https://learn.microsoft.com/en-us/ai/#learn-ai-based-on-your-role)
+
 ## Knowledge Graphs
 
 ### Courses
