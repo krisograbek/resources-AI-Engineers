@@ -116,6 +116,7 @@ Most popular models:
 ### Tutorials
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 - [Prompt Engineering: A Practical Example (Real Python)](https://realpython.com/practical-prompt-engineering/)
+- [LogProbs Cookbook](https://cookbook.openai.com/examples/using_logprobs)
 
 ## APIs:
 1. [OpenAI API](https://platform.openai.com/docs/api-reference/introduction)
