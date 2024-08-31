@@ -73,6 +73,7 @@
 ### Transformer Architecture
 - [The Illustrated Transformer by Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
 - [Transformers for Everyone](https://medium.com/the-research-nest/explained-transformers-for-everyone-af01cbe600c5)
+- [Visualizing and Explaining Transformer Models](https://deepgram.com/learn/visualizing-and-explaining-transformer-models-from-the-ground-up)
 
 ### Online Tokenizers
 - [HuggingFace](https://huggingface.co/spaces/Xenova/the-tokenizer-playground)
@@ -90,6 +91,7 @@
 - [Understanding Tokens, Vectors and Embeddings (LinkedIn)](https://www.linkedin.com/pulse/understanding-core-components-llms-vectors-tokens-embeddings-jain-dlv6e)
 - [Explained Tokens and Embeddings in LLM (Medium)](https://medium.com/the-research-nest/explained-tokens-and-embeddings-in-llms-69a16ba5db33) - It's a really good one.
 - [The Building Blocks of LLMs: Vectors, Tokens and Embeddings](https://thenewstack.io/the-building-blocks-of-llms-vectors-tokens-and-embeddings/)
+- [LLM Basics: Embedding Spaces - Transformer Token Vectors Are Not Points in Space](https://www.alignmentforum.org/posts/pHPmMGEMYefk9jLeh/llm-basics-embedding-spaces-transformer-token-vectors-are) - very in-depth ecplanation
 
 ## Generative AI
 
