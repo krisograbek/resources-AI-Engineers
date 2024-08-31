@@ -72,6 +72,7 @@
 
 ### Transformer Architecture
 - [The Illustrated Transformer by Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
+- [Transformers for Everyone](https://medium.com/the-research-nest/explained-transformers-for-everyone-af01cbe600c5)
 
 ### Online Tokenizers
 - [HuggingFace](https://huggingface.co/spaces/Xenova/the-tokenizer-playground)
