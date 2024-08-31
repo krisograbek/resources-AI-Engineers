@@ -56,8 +56,9 @@
 
 ## Large Language Models
 
-### Tutorials:
+### Best Explanations:
 - [Optimizing LLMs for accuracy by OpenAI](https://platform.openai.com/docs/guides/optimizing-llm-accuracy)
+- [What is ChatGPT doing... and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) - deep and solid breakdown
 - [ ] Intro to LLMs by Karpathy
 - [ ] Intro to LLMs by Jeremy Howard
 
@@ -78,8 +79,15 @@
 - [Tiktokenizer](https://tiktokenizer.vercel.app/)
 - [OpenAI](https://platform.openai.com/tokenizer)
 
+- [Embedding Projector](https://projector.tensorflow.org/)
+
 ### Learn Tokenization
 - [Let's build the GPT tokenizer by A. Karpathy](https://www.youtube.com/watch?v=zduSFxRajkE)
+
+### Token Resources:
+- [A beginners guide to tokens, vectors, and embeddings in NLP](https://medium.com/@saschametzger/what-are-tokens-vectors-and-embeddings-how-do-you-create-them-e2a3e698e037)
+- [Understanding Tokens, Vectors and Embeddings (LinkedIn)](https://www.linkedin.com/pulse/understanding-core-components-llms-vectors-tokens-embeddings-jain-dlv6e)
+- [Explained Tokens and Embeddings in LLM (Medium)](https://medium.com/the-research-nest/explained-tokens-and-embeddings-in-llms-69a16ba5db33) - It's a really good one.
 
 ## Generative AI
 
