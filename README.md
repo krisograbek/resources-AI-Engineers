@@ -89,6 +89,7 @@
 - [A beginners guide to tokens, vectors, and embeddings in NLP](https://medium.com/@saschametzger/what-are-tokens-vectors-and-embeddings-how-do-you-create-them-e2a3e698e037)
 - [Understanding Tokens, Vectors and Embeddings (LinkedIn)](https://www.linkedin.com/pulse/understanding-core-components-llms-vectors-tokens-embeddings-jain-dlv6e)
 - [Explained Tokens and Embeddings in LLM (Medium)](https://medium.com/the-research-nest/explained-tokens-and-embeddings-in-llms-69a16ba5db33) - It's a really good one.
+- [The Building Blocks of LLMs: Vectors, Tokens and Embeddings](https://thenewstack.io/the-building-blocks-of-llms-vectors-tokens-and-embeddings/)
 
 ## Generative AI
 
